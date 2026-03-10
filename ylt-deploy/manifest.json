@@ -1,0 +1,29 @@
+{
+  "name": "Yorùbá Land Time — Agogo",
+  "short_name": "YLT Agogo",
+  "description": "Experience time through Yorùbá wisdom. A 16-hour day beginning at dawn.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A0D05",
+  "theme_color": "#C4A96A",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle", "utilities"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
